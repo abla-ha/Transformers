@@ -36,7 +36,7 @@ The model consists of:
 
 Here's an overview of the architecture:
 
-![Transformer Architecture](https://miro.medium.com/v2/resize:fit:828/format:webp/1*4A9zG9nUt2VsSIuNENAu4w.png)
+![Transformer Architecture](images/Screen_Shot_2021-01-26_at_9.43.31_PM_uI4jjMq (1).png)
 
 ### Patch Embedding
 Patch embedding involves dividing the image into smaller patches and flattening each patch. These patches are then passed through a linear layer to project them into the embedding space.
@@ -72,9 +72,7 @@ The process consists of:
 3. **Transformer Layers:** The patch embeddings with positional encodings are passed through multiple transformer layers. Each layer applies multi-head self-attention and feed-forward networks.
 4. **Classification Head:** A special classification token is concatenated with the patch embeddings, and its final state after the transformer layers is used to make the classification.
 
-The following image shows a high-level overview of a Vision Transformer:
 
-![ViT Overview]([https://i.imgur.com/1aN50Mr.png](https://production-media.paperswithcode.com/methods/Screen_Shot_2021-01-26_at_9.43.31_PM_uI4jjMq.png))
 
 ## References
 
