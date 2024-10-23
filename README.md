@@ -74,7 +74,7 @@ The process consists of:
 
 The following image shows a high-level overview of a Vision Transformer:
 
-![ViT Overview](https://i.imgur.com/1aN50Mr.png)
+![ViT Overview]([https://i.imgur.com/1aN50Mr.png](https://production-media.paperswithcode.com/methods/Screen_Shot_2021-01-26_at_9.43.31_PM_uI4jjMq.png))
 
 ## References
 
