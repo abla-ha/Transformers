@@ -36,7 +36,8 @@ The model consists of:
 
 Here's an overview of the architecture:
 
-![Transformer Architecture](images/Screen_Shot_2021-01-26_at_9.43.31_PM_uI4jjMq (1).png)
+![Transformer Architecture](images/Screen_Shot_2021-01-26_at_9.43.31_PM_uI4jjMq%20\(1\).png)
+
 
 ### Patch Embedding
 Patch embedding involves dividing the image into smaller patches and flattening each patch. These patches are then passed through a linear layer to project them into the embedding space.
